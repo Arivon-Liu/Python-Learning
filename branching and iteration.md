@@ -1,0 +1,38 @@
+# branching and iteration
+
+## 1.strings
+
+**letters,special characters,spaces,digits**
+
+- concatenate: "plus" strings together
+- multiplication: use star character to repeat strings
+
+## 2.Input/output function: 
+> Input 
+
+**prints whatever is in the quoates**
+
+> Print
+
+**use comma to add space in print function**
+
+## 3.branching
+
+**make decision use 'if' 'else' etc finctions**
+
+>if
+
+		if condition **true**,then execute statements
+
+>elif
+
+		if conditon 1 **false**,then check elif
+
+## 4.iteration
+
+**can execute infinitely steps**
+
+> while
+> for loop
+
+		for **n** in range(statr,stop,step):
